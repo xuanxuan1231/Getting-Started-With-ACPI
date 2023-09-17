@@ -3,7 +3,7 @@ const {
 } = require('../package')
 
 module.exports = {
-    title: 'Getting Started With ACPI',
+    title: 'ACPI入门',
     head: [
         ['meta', {
             name: 'theme-color',
