@@ -12,6 +12,6 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: xuanxuan1231/OpenCore-Install-Guide
+        TARGET_REPO: xuanxuan1231/Getting-Started-With-ACPI
         BUILD_SCRIPT: npm run lnxbuild
         BUILD_DIR: .vuepress/dist/
